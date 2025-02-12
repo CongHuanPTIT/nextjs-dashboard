@@ -1,3 +1,4 @@
+// Root layout, shared in all pages that the app can use
 import '@/app/ui/global.css'
 import { inter } from './ui/fonts';
 
